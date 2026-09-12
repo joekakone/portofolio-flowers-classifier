@@ -1,0 +1,10 @@
+glob2
+pandas
+matplotlib
+pydot
+graphviz
+pillow
+jupyterlab
+tensorflow
+tensorboard
+tensorflow-serving-api
