@@ -8,3 +8,4 @@ jupyterlab
 tensorflow
 tensorboard
 tensorflow-serving-api
+gradio
